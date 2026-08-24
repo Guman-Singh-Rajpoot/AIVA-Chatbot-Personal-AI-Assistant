@@ -1,0 +1,84 @@
+Act as a senior full-stack developer, AI engineer, and software architect.
+
+I want to build a unified Tech Project Suite that includes:
+
+1. Personal AI Assistant (Chatbot)
+   - Manage tasks (CRUD)
+   - Store and retrieve notes
+   - Study reminders with scheduling
+   - Natural language understanding
+
+2. Expense Tracker Application
+   - Income & expense tracking
+   - Categories and budgets
+   - Interactive charts
+   - CSV export
+
+3. Smart Recommendation System
+   - Movie / book / music recommendations
+   - Based on user mood, preferences, and ratings
+   - Hybrid recommendation (content-based + collaborative)
+
+4. Real-Time Chat Application
+   - One-to-one and group chat
+   - Online status, typing indicators
+   - Read receipts
+   - Real-time messaging
+
+5. Fake News Detection System
+   - NLP-based classification
+   - Confidence score for predictions
+   - Explainable results
+
+----------------------------------
+TECH STACK:
+Frontend:
+- React (with modern UI and responsive design)
+
+Backend:
+- Node.js + Express
+- Python (FastAPI/Flask for ML services)
+
+Database:
+- MongoDB (chat, tasks, notes)
+- PostgreSQL (expenses, users)
+- Redis (optional caching)
+
+AI / ML:
+- OpenAI API (chatbot + intent detection)
+- NLP (TF-IDF / Word2Vec / BERT)
+- ML models (Logistic Regression, Random Forest, LSTM)
+
+Real-Time:
+- WebSockets / Socket.IO or Firebase
+
+----------------------------------
+REQUIREMENTS:
+- Modular microservice architecture
+- Secure authentication (JWT)
+- Role-based access
+- Scalable API design
+- Clean folder structure
+- Well-commented code
+
+----------------------------------
+DELIVERABLES:
+1. System architecture (text diagram)
+2. Database schemas
+3. API endpoints
+4. ML pipeline (data → training → evaluation)
+5. Prompt engineering for AI assistant
+6. UI component structure
+7. Sample code snippets
+8. Deployment steps (Docker + Cloud)
+9. GitHub README content
+10. Resume-ready project description
+
+----------------------------------
+EXPLAIN:
+- Design decisions
+- Trade-offs
+- How each module integrates
+- How this can be scaled to production
+
+Respond step-by-step with clear sections.

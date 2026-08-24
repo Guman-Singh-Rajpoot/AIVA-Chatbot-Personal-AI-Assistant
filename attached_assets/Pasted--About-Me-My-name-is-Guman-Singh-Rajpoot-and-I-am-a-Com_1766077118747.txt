@@ -1,0 +1,13 @@
+**About Me**
+
+My name is **Guman Singh Rajpoot**, and I am a **Computer Science Engineering undergraduate (B.Tech CSE)** with a strong interest in software development, problem-solving, and emerging technologies. I believe in continuous learning and self-improvement, both technically and personally.
+
+During my academic journey, I have developed a solid understanding of **core computer science concepts**, including **Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, and Software Engineering principles**. These subjects have helped me think logically, write efficient code, and understand how real-world software systems are designed and optimized.
+
+I have hands-on experience in **programming and full-stack development**, particularly using **Python, Flask, Django, REST APIs, HTML, CSS, JavaScript, Bootstrap, and Chart.js**. I enjoy building applications with a **clear separation between frontend and backend**, focusing on clean architecture and scalability. Some of my projects include **data-driven dashboards, apartment finder web applications, IPL data analysis systems, graph-based network analysis, and API-based platforms**, which have strengthened my understanding of both development and deployment workflows.
+
+I am especially interested in **Artificial Intelligence and Machine Learning**, and I am gradually enhancing my skills in this domain by studying algorithms, data handling, and practical implementations. I enjoy analyzing data, understanding patterns, and applying logic to solve complex problems, which motivates me to explore AI-related projects.
+
+Along with technical skills, I am actively working on improving my **English communication and speaking abilities**. I understand the importance of clear communication in teamwork, presentations, and professional environments. I am a **disciplined, responsible, and self-motivated individual**, capable of working independently as well as collaboratively in a team.
+
+My long-term goal is to become a **skilled software engineer**, contributing to impactful and innovative projects, particularly in **backend development, AI-driven systems, and scalable applications**. I am eager to learn new technologies, accept challenges, and continuously grow as a professional while maintaining strong ethical values and a positive attitude.
